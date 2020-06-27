@@ -1,0 +1,3 @@
+﻿Como calcular?
+Calcular: http://localhost:3001/imc/:peso/:altura
+Ex: http://localhost:3001/imc/:60/:1.70
